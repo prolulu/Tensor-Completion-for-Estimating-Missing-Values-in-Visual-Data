@@ -26,7 +26,7 @@ python HaLRTC.py
 ### Result
 ![](https://github.com/prolulu/Tensor-Completion-for-Estimating-Missing-Values-in-Visual-Data/blob/master/seaside_result.jpg)
 
-## Run HaLRTC.py
+## Run HaLRTC_house.py
 ```shell
 python HaLRTC_house.py
 ```
@@ -34,3 +34,9 @@ python HaLRTC_house.py
 ![](https://github.com/prolulu/Tensor-Completion-for-Estimating-Missing-Values-in-Visual-Data/blob/master/house_corrupt.jpg)
 ### Result
 ![](https://github.com/prolulu/Tensor-Completion-for-Estimating-Missing-Values-in-Visual-Data/blob/master/house_result.jpg)
+
+## P.S.
+该项目为本人课程作业项目，来源于开源，回馈给开源。<br>
+This project is my coursework project, which is derived from open source and gives back to community.<br>
+若有任何对于本项目的疑问和建议欢迎联系lulutyh@163.com <br>
+If you have any questions or suggestions about this project, please contact lulutyh@163.com <br>
