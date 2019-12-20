@@ -9,7 +9,7 @@ def shrinkage(X, t):
 
     Temp = np.zeros((U.shape[1], VT.shape[0]))
     for i in range(len(Sig)):
-        Temp[i, i] = Sig[i]  # 生成对角阵
+        Temp[i, i] = Sig[i]  
     Sig = Temp
 
     Sigt = Sig
@@ -35,7 +35,7 @@ def ReplaceInd(X, known, Image):
 
 def init():
     KownPercentage = 0.5
-    Image = cv2.imread("good_brother.jpg")
+    Image = cv2.imread("seaside.jpg")
     # cv2.namedWindow('Corrupting Image', cv2.WINDOW_NORMAL)
     # cv2.imshow("Corrupting Image", Image.astype(np.uint8))
     # cv2.waitKey(0)
