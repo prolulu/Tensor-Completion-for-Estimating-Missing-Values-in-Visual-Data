@@ -33,7 +33,7 @@ def ReplaceInd(X, Image):
 
 def init():
     KownPercentage = 0.5
-    Image = cv2.imread("house.png")
+    Image = cv2.imread("house.jpg")
 
     imSize = Image.shape
     known = np.arange(np.prod(imSize) / imSize[2])
