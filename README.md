@@ -20,7 +20,6 @@ This project aims to implement the algorithm in Python and use the Numba module 
 ```shell
 python HaLRTC.py
 ```
-
 ### Input
 ![](https://github.com/prolulu/Tensor-Completion-for-Estimating-Missing-Values-in-Visual-Data/blob/master/seaside_corrupt.jpg)
 ### Result
@@ -30,6 +29,8 @@ python HaLRTC.py
 ```shell
 python HaLRTC_house.py
 ```
+### Origin
+![](https://github.com/prolulu/Tensor-Completion-for-Estimating-Missing-Values-in-Visual-Data/blob/master/house.jpg)
 ### Input
 ![](https://github.com/prolulu/Tensor-Completion-for-Estimating-Missing-Values-in-Visual-Data/blob/master/house_corrupt.jpg)
 ### Result
