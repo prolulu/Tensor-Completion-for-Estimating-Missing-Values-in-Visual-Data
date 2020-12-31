@@ -4,7 +4,7 @@
 ```shell
 init_image
 ```
-After that, make sure you init `Image` and `known`
+After that, make sure you're already initialized `Image` and `known` var
 
 
 ## 2.Run scripts
